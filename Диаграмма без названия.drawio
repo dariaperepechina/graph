@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:08:02.198Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="55aG_Y5Q7pPdVWc3dV-2" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:26:13.546Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WtH2v_LjY-SwN_upqXU3" version="20.6.0" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1662" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -175,25 +175,43 @@
           <mxGeometry x="1040" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-53" value="Учебный отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="1050" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-54" value="Аналитический&lt;br&gt;отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="1050" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-55" value="Методический&amp;nbsp;&lt;br&gt;отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="1050" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-56" value="Отдел автоматизации управления учебным процессом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-57" value="Отдел по практическому обучению" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="432.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="1050" y="432.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-63" value="Отдел планирования и организации учебного процесса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-64" value="Центр менеджмента качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="1050" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-68" value="Отдел по работе с абитуриентами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="610" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-69" target="hcTSXzJrnQQSGbbqOwBM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-69" target="hcTSXzJrnQQSGbbqOwBM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-69" value="Финансово экономическое управление" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-70" value="Бухгалтерия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-71" value="Планово-экономический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="750" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
