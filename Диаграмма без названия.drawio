@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T12:26:13.546Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WtH2v_LjY-SwN_upqXU3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T12:45:50.824Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eLrYKu_ulZ6CL5lk7OVr" version="20.6.0" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1662" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -212,6 +212,48 @@
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-71" value="Планово-экономический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-74" value="Контрактная служба" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-75" value="Отдел по координации разработки и реализации стратегии и программ развития университета" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="840" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-76" value="Отдел подготовки научно- педагогических кадров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="910" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-77" value="Волонтерский центр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="960" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-78" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="990" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-79" value="Отдел по управлению федеральной собственностью" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1020" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-80" value="Центр довузовской подготовки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1070" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-81" target="hcTSXzJrnQQSGbbqOwBM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-81" target="hcTSXzJrnQQSGbbqOwBM-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-81" target="hcTSXzJrnQQSGbbqOwBM-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-81" value="Управление по международным и внешним связям" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-82" value="Отдел по связям с общественностью" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-83" value="Отдел международных связей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-84" value="Центр по работе с иностранными студентами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
