@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T13:12:59.380Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xIAjtQdoDXWXMZy_blX7" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T13:39:38.945Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="usHqYofCvvEqriIA2vZe" version="20.6.0" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1662" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -342,6 +342,54 @@
         </mxCell>
         <mxCell id="hcTSXzJrnQQSGbbqOwBM-113" value="Архив" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcTSXzJrnQQSGbbqOwBM-115" target="hcTSXzJrnQQSGbbqOwBM-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-115" value="Центр информационных технологий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="405" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-116" value="Отдел тестирования и сертификации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-117" value="Отдел образовательных проектов и информационных ресурсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="520" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-118" value="Отдел системного администрирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-119" value="Отдел разработки программного обеспечения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-120" value="Отдел технического обеспечения и эксплуатации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-126" value="Отдел веб-проектов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-128" value="Редакция электронного научного журнала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="820" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-129" value="Центр компетенций по развитию агрострахования и поддержки АПК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hcTSXzJrnQQSGbbqOwBM-130" value="Центр прогнозирования и мониторинга научно- технологического развития АПК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="950" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
